@@ -110,11 +110,6 @@ It lays a strong foundation for future work in Middleware, System Software, or A
 
 ---
 
-## ✍️ Author
-
-- **Nguyễn Nhật Trường**
----
-
 ## 📸
 ```
 [Python Inference] --> [Kernel Driver /dev/ai_dummy] --> [Verilog MAC Accelerator]
